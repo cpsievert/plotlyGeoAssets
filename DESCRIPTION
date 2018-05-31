@@ -1,11 +1,15 @@
 Package: plotlyGeoAssets
-Title: Render plotly maps with an internet connection.
+Title: Render Plotly Maps with an Internet Connection
 Version: 0.0.1
 Authors@R: person("Carson", "Sievert", role = c("aut", "cre"),
     email = "cpsievert1@gmail.com", comment = c(ORCID = "0000-0002-4958-2844"))
 Description: Javascript files that allow plotly to render maps with an internet connection.
+Depends: R (>= 2.10)
+Enhances: plotly
 Suggests:
-  testthat
+  testthat,
+  htmltools,
+  curl
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
