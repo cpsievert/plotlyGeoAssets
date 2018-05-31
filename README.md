@@ -1,3 +1,6 @@
+[![Travis build status](https://travis-ci.org/cpsievert/plotlyGeoAssets.svg?branch=master)](https://travis-ci.org/cpsievert/plotlyGeoAssets)
+[![CRAN Status](http://www.r-pkg.org/badges/version/plotlyGeoAssets)](http://cran.r-project.org/package=plotlyGeoAssets)
+
 # plotlyGeoAssets
 
 An R (data) package for rendering [plotly](https://github.com/ropensci/plotly) maps without an internet connection.
