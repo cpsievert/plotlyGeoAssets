@@ -1,6 +1,6 @@
 # plotlyGeoAssets
 
-An R (data) package for rendering [plotly](https://github.com/ropensci/plotly) maps with an internet connection.
+An R (data) package for rendering [plotly](https://github.com/ropensci/plotly) maps without an internet connection.
 
 ## Install
 
