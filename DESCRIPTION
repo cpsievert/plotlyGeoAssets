@@ -1,6 +1,6 @@
 Package: plotlyGeoAssets
 Title: Render 'Plotly' Maps without an Internet Connection
-Version: 0.0.1
+Version: 0.0.2
 Authors@R: person("Carson", "Sievert", role = c("aut", "cre"),
     email = "cpsievert1@gmail.com", comment = c(ORCID = "0000-0002-4958-2844"))
 Description: Includes 'JavaScript' files that allow 'plotly' maps to render without an internet connection.
