@@ -1,5 +1,5 @@
 
-version <- "1.38.1"
+version <- "1.43.1"
 url <- sprintf(
   "https://rawgit.com/plotly/plotly.js/v%s/dist/plotly-geo-assets.js",
   version
@@ -17,4 +17,4 @@ geoAssets <- htmltools::htmlDependency(
   all_files = FALSE
 )
 
-devtools::use_data(geoAssets, internal = TRUE, overwrite = TRUE)
+usethis::use_data(geoAssets, internal = TRUE, overwrite = TRUE)
