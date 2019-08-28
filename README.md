@@ -1,5 +1,5 @@
 [![Travis build status](https://travis-ci.org/cpsievert/plotlyGeoAssets.svg?branch=master)](https://travis-ci.org/cpsievert/plotlyGeoAssets)
-[![CRAN Status](http://www.r-pkg.org/badges/version/plotlyGeoAssets)](http://cran.r-project.org/package=plotlyGeoAssets)
+[![CRAN Status](https://www.r-pkg.org/badges/version/plotlyGeoAssets)](https://cran.r-project.org/package=plotlyGeoAssets)
 
 # plotlyGeoAssets
 
