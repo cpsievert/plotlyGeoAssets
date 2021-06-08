@@ -1,5 +1,5 @@
 
-version <- "1.43.1"
+version <- "2.0.0"
 url <- sprintf(
   "https://rawgit.com/plotly/plotly.js/v%s/dist/plotly-geo-assets.js",
   version
